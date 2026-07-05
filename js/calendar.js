@@ -77,10 +77,6 @@
       th: { title: "สานสัมพันธ์จุฬาภรณ์ รุ่นที่ 10 (วันที่ 1/2)", time: "ตลอดวัน", place: "ราชวิทยาลัยจุฬาภรณ์", category: "ค่าย / สัมพันธ์" },
       en: { title: "Chulabhorn Bonding Camp Gen 10 (Day 1/2)", time: "All day", place: "Chulabhorn Royal Academy", category: "Camp / Bonding" }
     },
-    "2026-08-16": {
-      th: { title: "สานสัมพันธ์จุฬาภรณ์ รุ่นที่ 10 (วันที่ 2/2)", time: "ตลอดวัน", place: "ราชวิทยาลัยจุฬาภรณ์", category: "ค่าย / สัมพันธ์" },
-      en: { title: "Chulabhorn Bonding Camp Gen 10 (Day 2/2)", time: "All day", place: "Chulabhorn Royal Academy", category: "Camp / Bonding" }
-    },
     "2026-08-19": {
       th: { title: "พิธีมอบเสื้อกาวน์และชุดปฏิบัติงาน คณะเทคโนโลยีวิทยาศาสตร์สุขภาพ", time: "ตลอดวัน", place: "คณะเทคโนโลยีวิทยาศาสตร์สุขภาพ", category: "พิธีการ" },
       en: { title: "White Coat & Uniform Ceremony — Faculty of HST", time: "All day", place: "Faculty of Health Science Technology", category: "Ceremony" }
@@ -89,7 +85,7 @@
       th: { title: "โครงการไหว้ครู คณะเทคโนโลยีวิทยาศาสตร์สุขภาพ", time: "ตลอดวัน", place: "คณะเทคโนโลยีวิทยาศาสตร์สุขภาพ", category: "พิธีการ" },
       en: { title: "Wai Khru Ceremony — Faculty of HST", time: "All day", place: "Faculty of Health Science Technology", category: "Ceremony" }
     },
-    "2026-09-01": {
+    "2026-09-03": {
       th: { title: "พิธีพระราชทานโอวาทนักศึกษาใหม่ ปีการศึกษา 2569 (รอกำหนดวันที่)", time: "—", place: "ราชวิทยาลัยจุฬาภรณ์", category: "พิธีการ" },
       en: { title: "Royal Address for New Students 2026 (Date TBA)", time: "—", place: "Chulabhorn Royal Academy", category: "Ceremony" }
     },
