@@ -89,7 +89,7 @@
       th: { title: "พิธีพระราชทานโอวาทนักศึกษาใหม่ ปีการศึกษา 2569 (รอกำหนดวันที่)", time: "—", place: "ราชวิทยาลัยจุฬาภรณ์", category: "พิธีการ" },
       en: { title: "Royal Address for New Students 2026 (Date TBA)", time: "—", place: "Chulabhorn Royal Academy", category: "Ceremony" }
     },
-    "2026-10-01": {
+    "2026-10-10": {
       th: { title: "โครงการเปิดบ้าน (Open House) คณะเทคโนโลยีวิทยาศาสตร์สุขภาพ ร่วมกับฝ่ายประชาสัมพันธ์ฯ (รอกำหนดวันที่)", time: "—", place: "คณะเทคโนโลยีวิทยาศาสตร์สุขภาพ", category: "ประชาสัมพันธ์" },
       en: { title: "HST Open House (with PR Division) — Date TBA", time: "—", place: "Faculty of Health Science Technology", category: "PR / Outreach" }
     },
