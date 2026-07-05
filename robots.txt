@@ -1,0 +1,13 @@
+# robots.txt — สโมสรนักศึกษา HST, ราชวิทยาลัยจุฬาภรณ์
+# https://smohst69.netlify.app/
+
+User-agent: *
+Allow: /
+
+# ไม่อนุญาตให้ index โฟลเดอร์เครื่องมือ/ไฟล์เก่า
+Disallow: /google-apps-script/
+Disallow: /.venv/
+Disallow: /Pic smo/
+Disallow: /PIcture SMO/
+
+Sitemap: https://smohst69.netlify.app/sitemap.xml
