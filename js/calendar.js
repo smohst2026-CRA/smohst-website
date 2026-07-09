@@ -81,7 +81,7 @@
       th: { title: "พิธีมอบเสื้อกาวน์และชุดปฏิบัติงาน คณะเทคโนโลยีวิทยาศาสตร์สุขภาพ", time: "ตลอดวัน", place: "คณะเทคโนโลยีวิทยาศาสตร์สุขภาพ", category: "พิธีการ" },
       en: { title: "White Coat & Uniform Ceremony — Faculty of HST", time: "All day", place: "Faculty of Health Science Technology", category: "Ceremony" }
     },
-    "2026-08-26": {
+    "2026-09-23": {
       th: { title: "โครงการไหว้ครู คณะเทคโนโลยีวิทยาศาสตร์สุขภาพ", time: "ตลอดวัน", place: "คณะเทคโนโลยีวิทยาศาสตร์สุขภาพ", category: "พิธีการ" },
       en: { title: "Wai Khru Ceremony — Faculty of HST", time: "All day", place: "Faculty of Health Science Technology", category: "Ceremony" }
     },
@@ -94,8 +94,8 @@
       en: { title: "HST Open House (with PR Division) — Date TBA", time: "—", place: "Faculty of Health Science Technology", category: "PR / Outreach" }
     },
     "2026-10-15": {
-      th: { title: "โครงการ HST Talk จุดประกายวิทยาศาสตร์สุขภาพ (Online & Onsite 4 วัน)", time: "ตลอดวัน × 4 วัน", place: "Online + คณะเทคโนโลยีวิทยาศาสตร์สุขภาพ", category: "วิชาการ" },
-      en: { title: "HST Talk: Spark of Health Science (Online & Onsite, 4 days)", time: "4 days", place: "Online + Faculty of HST", category: "Academic" }
+      th: { title: "โครงการ 1st HST Game กีฬาสานสัมพันธ์ 2026", time: "ตลอดวัน × 2 วัน", place: "คณะเทคโนโลยีวิทยาศาสตร์สุขภาพ", category: "กีฬาและนันทนาการ" },
+      en: { title: "1st HST Game", time: "2 days", place: "Faculty of HST", category: "Sports" }
     },
     "2026-10-28": {
       th: { title: "โครงการเรียนรู้ AI เพื่อปรับตัวสู่โลกใหม่ เสริมทักษะในยุคดิจิทัล", time: "ตลอดวัน", place: "คณะเทคโนโลยีวิทยาศาสตร์สุขภาพ", category: "วิชาการ" },
