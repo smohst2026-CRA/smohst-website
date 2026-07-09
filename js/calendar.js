@@ -93,7 +93,7 @@
       th: { title: "โครงการเปิดบ้าน (Open House) คณะเทคโนโลยีวิทยาศาสตร์สุขภาพ ร่วมกับฝ่ายประชาสัมพันธ์ฯ (รอกำหนดวันที่)", time: "—", place: "คณะเทคโนโลยีวิทยาศาสตร์สุขภาพ", category: "ประชาสัมพันธ์" },
       en: { title: "HST Open House (with PR Division) — Date TBA", time: "—", place: "Faculty of Health Science Technology", category: "PR / Outreach" }
     },
-    "2026-10-15": {
+    "2026-10-17": {
       th: { title: "โครงการ 1st HST Game กีฬาสานสัมพันธ์ 2026", time: "ตลอดวัน × 2 วัน", place: "คณะเทคโนโลยีวิทยาศาสตร์สุขภาพ", category: "กีฬาและนันทนาการ" },
       en: { title: "1st HST Game", time: "2 days", place: "Faculty of HST", category: "Sports" }
     },
